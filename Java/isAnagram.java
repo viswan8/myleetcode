@@ -7,13 +7,9 @@ Space Complexity: O(1)
 
 Note: While copying the code please write your own main method.
 
-Runtime
-Details
-5ms
+Runtime:5ms
 Beats 54.38%of users with Java
-Memory
-Details
-41.76MB
+Memory:41.76MB
 Beats 90.66%of users with Java
 */
 
