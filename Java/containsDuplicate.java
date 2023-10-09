@@ -8,6 +8,8 @@ Space Complexity: O(n)
 Note: While copying the code please write your own main method.
 */
 
+import java.util.HashSet;
+
 class containsDuplicate {
     public boolean containsDuplicate(int[] nums) {
         HashSet <Integer> Unique = new HashSet<>();

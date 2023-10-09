@@ -1,5 +1,15 @@
 import java.util.Stack;
 
+/* 
+LeetCode 20: Valid Patentheses
+https://leetcode.com/problems/valid-parentheses/
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+Note: While copying the code please write your own main method.
+*/
+
 class Solution {
     public boolean isValidParantheses(String s) {
         if(s.length()%2!=0)
