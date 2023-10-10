@@ -30,3 +30,5 @@ class Solution {
         return max;
     }
 }
+
+//This kind of problem solving is called sliding window.
