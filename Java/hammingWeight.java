@@ -3,7 +3,7 @@ LeetCode 191. No of 1 Bits
 
 https://leetcode.com/problems/number-of-1-bits/
 
-Time Complexity: O(n)
+Time Complexity: O(1)
 Space Complexity: O(1)
 
 Note: While copying the code please write your own main method.
