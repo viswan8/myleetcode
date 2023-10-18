@@ -3,9 +3,8 @@ LeetCode 202. Happy Number
 
 https://leetcode.com/problems/happy-number/
 
-Time Complexity: O(n) since 3 individual loops running till n
-Space Complexity: O(n) since 2 arrays of size n are created
-
+Time Complexity: O(nlogn) 
+Space Complexity: O(n) 
 Note: While copying the code please write your own main method.
 */
 
